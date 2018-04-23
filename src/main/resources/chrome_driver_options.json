@@ -1,0 +1,5 @@
+{
+  "chromeDriverPath": "src/main/resources/drivers/chromedriver_win32/chromedriver.exe",
+  "chromeOptionsArgs": ["--start-maximized", "--lang=en","--incognito"],
+  "browser": "${config.browser}"
+}
